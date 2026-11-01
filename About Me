@@ -1,0 +1,51 @@
+@ktran385-a11y ➜ /workspaces/LearnCS8-Resume/JordanSchuetz-Website/img (master) $ <meta name="About Me" content = Hello, Good morning, Good evening, and good night">
+<Koby Tran>John Doe - Business Administration</Mr.>
+    <p class="lead mb-4">Enter bio here<br><br>
+I am a dedicated and results-driven professional with a passion for delivering high-quality work, building meaningful relationships, and creating lasting value through everything I do. Throughout my professional journey, I have focused on developing my skills, expanding my knowledge, and staying committed to continuous growth and improvement. I believe that professionalism is built on a foundation of integrity, reliability, hard work, and a genuine commitment to excellence.
+
+My professional experience has allowed me to develop a well-rounded understanding of my industry, strengthen my ability to solve problems, and approach challenges with a positive and solutions-oriented mindset. I take pride in being adaptable, detail-oriented, and proactive, with the ability to manage responsibilities effectively while maintaining high standards. I enjoy working collaboratively with others, sharing ideas, and finding innovative ways to achieve meaningful results.
+
+Beyond my professional experience, I believe that personal values play an important role in long-term success. I value honesty, accountability, communication, and building genuine connections with the people I work with. I approach every opportunity with enthusiasm and an open mind, recognizing that every experience provides a chance to learn something new and become better at what I do.
+
+I am continually looking for opportunities to grow professionally, embrace new challenges, and contribute my knowledge and experience to projects and organizations that share a commitment to quality and excellence. My goal is to make a positive impact through my work, build lasting professional relationships, and continue developing both personally and professionally.
+
+Whether working independently or as part of a team, I bring dedication, enthusiasm, and a strong sense of responsibility to everything I undertake. I believe that success comes from combining experience with continuous learning, maintaining a positive attitude, and always striving to exceed expectations.
+<div class="social-icons">
+<a target="_blank" id="socialicon-1" href="https://linkedin.com/yourprofile">
+    <i class="fab fa-linkedin-in"></i>
+</a>
+<a target="_blank" id="socialicon-2" href="https://github.com/Kobyonekanobe">
+    <i class="fab fa-github"></i>
+</a>
+<a target="_blank" id="socialicon-3" href="https://twitter.com/X">
+    <i class="fab fa-twitter"></i>
+</a>
+<a target="_blank" id="socialicon-4" href="KobyT.Tran@gmail.com">
+    <i class="fa fa-envelope"></i>
+</a>
+<h2 class="mb-5">Experience</h2>
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+        <div class="resume-content">
+            <h3 class="mb-0">Developer</h3>
+                <div class="subheading mb-3"><a target="_blank" href="www.youtube.com">Company</a></div>
+            <p>
+             • Developed websites for company X<br>
+             • Speaker at hack-a-thons<br>
+             • Experience with HTML, CSS, Javascript, Photoshop<br>
+            </p>
+            </div>
+            <div class="resume-date text-md-right">
+                <span class="text-primary">March 2019 - Present</span>
+            </div>
+        </div>
+        <h2 class="mb-5">Education</h2>
+<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+    <div class="resume-content">
+        <h3 class="mb-0">UC Riverside</h3>
+        <div class="subheading mb-3">Masters of Business Administration</div>
+        <div>MBA in International Business</div>
+    </div>
+    <div class="resume-date text-md-right">
+        <span class="text-primary">August 2018 - December 2019</span>
+    </div>
+</div>
